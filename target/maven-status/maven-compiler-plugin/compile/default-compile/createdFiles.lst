@@ -1,0 +1,8 @@
+ch\bkb\backend\service\UserService.class
+ch\bkb\backend\BackendApplication.class
+ch\bkb\backend\controller\UserController.class
+ch\bkb\backend\entity\User.class
+ch\bkb\backend\service\UserDetailService.class
+ch\bkb\backend\repository\UserRepository.class
+ch\bkb\backend\config\CorsConfig.class
+ch\bkb\backend\config\SecurityConfig.class
